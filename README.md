@@ -7,3 +7,6 @@ This is boilerplate code for email designers. Email designers understand the cha
 - if constructing a template from pieces, don't forget to copy code from the media-queries.html file. Otherwise you will not have the responsive design activated
 - speaking of responsive design, if customizing the architecture of a given template piece, do not forget to add your media queries
 - This is email design... meaning at the end of the day simplicity in your design will give you the best results. Don't attempt to do too much fancy stuff, whether or not you are using my code or someone else's code. You are after good design and crafting a good message - don't get bogged down on customization; you will lose focus on the message part of your email.
+
+### A special thank you to placehold.it
+The placeholder images in these templates and pieces are made possible by placehold.it - the best image placeholder service that is freely available to designers. I highly recommend checking them out and using them in your web / email design projects. Their website: http://placehold.it
